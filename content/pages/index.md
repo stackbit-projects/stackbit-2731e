@@ -9,14 +9,6 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    actions:
-      - label: Try for free free free
-        url: /pricing
-        style: primary
-    actions:
-      - label: Try for free free free free free free
-        url: /pricing
-        style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
